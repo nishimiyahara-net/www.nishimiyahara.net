@@ -1,4 +1,4 @@
-nishimiyahara-net.github.io
+www.nishimiyahara.net
 ===========================
 
 website
